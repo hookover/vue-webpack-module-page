@@ -7,6 +7,17 @@
 
 webpack已配置好模块化生成文件，便于开发单页应用
 
+## 演示
+
+因为源码是从整个项目拉出来的，所以与服务器交互的数据不完整，遇到错误提示请直接用开发者工具干掉
+
+复杂页面：
+http://hookover.github.io/vue-webpack-module-page/dist/create-task.html
+
+
+动态渲染表单：
+http://hookover.github.io/vue-webpack-module-page/dist/create-newmedia-plan.html
+
 ## 安装
     git clone 
     npm install         #安装依赖
