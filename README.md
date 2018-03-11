@@ -9,10 +9,7 @@ webpack已配置好模块化生成文件，便于开发单页应用
 
 ## 演示
 
-因为源码是从整个项目中拷贝出来的，所以与服务器交互的数据不完整，很多CSS和JS也缺失，
-遇到错误提示请直接用开发者工具干掉，并使用chrome查看演示页面。
-
-复杂页面：
+复杂的业务逻辑页面：
 http://hookover.github.io/vue-webpack-module-page/dist/create-task.html
 
 
